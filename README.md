@@ -1,7 +1,7 @@
 
 # Blinkit
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/413875f9-3387-4262-8d09-872344d59bad/629f9c47784d9235519a?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYmMzNzhlOGMtNTc4My00ODAwLTg4MTItZTA0ZGY0OGY3MWU0IiwidCI6IjFhYTI1MjRiLWNlM2UtNDkwZi05YjI1LWRmOTY2Y2JlYmMzMyJ9&pageName=629f9c47784d9235519a
 
 ## About
 
